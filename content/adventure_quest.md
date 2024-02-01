@@ -51,7 +51,7 @@ This game has been designed with solo gaming in mind from the start. Thanks to t
 
 ## Big things come in small packages
 
-There seems to be a trend of games becoming more bigger, heavier and more expensive and dungeon crawls can be some of the worst offenders. This game is in someways a reaction to that trend. A game that hopefully offers as big (if not bigger) adventure -in a more humble package. Game system is designed in a modular way and there will be space in the game box for future expansions which could enrich your adventures and worlds with even more possibilities.
+There seems to be a trend of games becoming more bigger, heavier and more expensive and dungeon crawls can be some of the worst offenders. This game is in someways a reaction to that trend. A game that hopefully offers as big (if not bigger) adventure -in a more humble package. The game system is designed in a modular way and there will be space in the game box for future expansions to enrich your adventures and worlds with even more possibilities.
 
 ![Polyhedral dice - retro colorway](/dice1.png)
 
