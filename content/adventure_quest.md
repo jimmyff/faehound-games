@@ -39,9 +39,9 @@ Character creation is similar to that of an RPG, you will choose their name, lin
 
 ## Campaign / One-shots
 
-This game offers a relaxed campaign/sandbox system: there is no linear path so no big plot to remember, the stories come from emergent narrative. This is more of a sandbox survival game allowing players freedom over where they go and what they will do. Each play session will take part in a campaign world but this doesn't have to be with the same party. It could be a one-shot session with vising friends or you could by trying some new champions. Despite the flexibility of this system there a start to the campaign and there is an end that can be attempted if the champions survive long enough to reach it...
+This game offers a relaxed campaign/sandbox system: there is no linear path so no big plot to remember, the stories come from emergent narrative. This is more of a sandbox survival game allowing players freedom over where they go and what they will do. Each play session will take part in a campaign world but this doesn't have to be with the same party. It could be a one-shot session with vising friends or you trying some new champions. Despite the flexibility of this system there is a start to the campaign as well as an end which can be attempted if the champions survive long enough to reach it...
 
-Your champions progress is kept on a character sheet. Your champions are portable and could be dropped in and out of different campaign worlds and you can take them with you to a friends campaign or to a convention game (akin to old RPG character sheets that you might take to a one-shot adventure). You/your group might want a more traditional fixed party and that works great too. This is your world and these are your adventures, you decide the way you play!
+Your champions progress is kept on a character sheet. Your champions are portable and could be dropped in and out of different campaign worlds and you can take them with you to a friends campaign or to a convention game (akin to taking your RPG character sheets to a one-shot adventure). You/your group might want a more traditional fixed party and that works great too. This is your world and these are your adventures, you decide the way you play!
 
 ![Room tile](/rooms1.png)
 
@@ -51,7 +51,7 @@ This game has been designed with solo gaming in mind from the start. Thanks to t
 
 ## Big things come in small packages
 
-There seems to be a trend of games becoming more bigger, heavier and more expensive and dungeon crawls can be some of the worst offenders. This game is in someways a reaction to that trend. A game that hopefully offers as big (if not bigger) adventure -in a more humble package. The game system is designed in a modular way and there will be space in the game box for future expansions to enrich your adventures and worlds with even more possibilities.
+There seems to be a trend of games becoming more bigger, heavier and more expensive and dungeon crawls can be some of the worst offenders. This game is in someways a reaction to that trend. A game that hopefully offers as big (if not bigger) adventure -in a more humble package. The game system is designed in a modular way and there will be space in the game box for future expansions to further enrich your adventures and worlds.
 
 ![Polyhedral dice - retro colorway](/dice1.png)
 
