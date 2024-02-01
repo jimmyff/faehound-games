@@ -65,6 +65,6 @@ Adventure Quest will be available to play at Airecon (Harrogate UK) in the Playt
 
 The game is created by Jimmy Forrester-Fellowes, [click here to find out more](/#about-faehound-games).
 
-# Subscribe to mailing list
+# Join the newsletter
 
-If you want to keep up to date with the project, and know when we come to crowdfunding then please join the mailing list here.
+If you want to keep up to date with the project, and know when we come to crowdfunding then please [join the newsletter](<https://mailchi.mp/68c9bda28534/faehound-games-newsletter>).

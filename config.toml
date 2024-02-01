@@ -43,6 +43,8 @@ juice_logo_name = "Faehound Games"
 juice_logo_path = "logo.gif"
 juice_extra_menu = [
     { title = "Youtube", link = "https://www.youtube.com/channel/UCITM1WbXl885iCxKAEPw6BA" },
+    { title = "Newsletter", link = "https://mailchi.mp/68c9bda28534/faehound-games-newsletter" },
+
 ]
 # Add page titles here to exclude them from the nav section (case sensitive)
 juice_exclude_menu = ["exclude_from_nav"]

@@ -51,6 +51,6 @@ The name Faehound Games is inspired by love of fantasy and my gorgeous little Wh
 
 If you are interested in playtesting [Adventure Quest](/adventure-quest/) on a semi-regular basis (solo or in a group) then please get in touch with me on [boardgamegeek](https://boardgamegeek.com/user/jimmyff). Playtesting is a super important part of development a game and really helps shape the final game!
 
-# Subscribe to mailing list
+# Join the newsletter
 
-If you want to keep up to date with [Adventure Quest](/adventure-quest/) and future projects then please join the newsletter. I will keep you in the loop so you will know when the project will come to crowdfunding.
+If you want to keep up to date with [Adventure Quest](/adventure-quest/) and future projects then please [join the newsletter](<https://mailchi.mp/68c9bda28534/faehound-games-newsletter>). I will keep you in the loop so you will know when the project will come to crowdfunding.
