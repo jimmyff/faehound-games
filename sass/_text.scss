@@ -6,20 +6,47 @@
   color: var(--primary-text-color);
 }
 
-h1, .title-text {
+h1,
+.title-text {
   font-family: var(--header-font-family);
   font-size: 25px;
   font-weight: 500;
-  color: var(--primary-text-color);
-  border-left: var(--primary-color) 8px solid;
+  color: var(--primary-header-text-color);
+  border-left: var(--primary-link-color) 8px solid;
   padding-left: 10px;
+  background-color: var(--primary-color);
+  display: inline-block;
+  padding: 0.2em 0.5em;
+  margin-right: auto;
+  line-height: 1.3em;
 }
 
-h2, .subtitle-text {
+.hero h1,
+.hero .title-text {
+  border-left: 0;
+  color: var(--primary-header-text-color);
+}
+
+h2,
+.subtitle-text {
   font-family: var(--header-font-family);
   font-size: 20px;
   font-weight: 500;
-  color: var(--primary-text-color);
+  color: var(--primary-header-text-color);
+
+  background-color: var(--primary-color);
+  display: inline-block;
+  padding: 0.2em 0.5em;
+}
+
+main h2,
+main .subtitle-text {
+
+  margin-right: auto;
+}
+
+.hero a {
+  color: var(--primary-link-color);
 }
 
 .text {
