@@ -5,18 +5,9 @@ sort_by = "weight"
 
 # Ultimate Quest
 
-[Ultimate Quest](/ultimate-quest/) is a fantasy&nbsp;adventure and dungeon&nbsp;crawling boardgame with old&#8209;school vibes. This is Faehound Games first game and it will be available via crowdfunding.
+[Ultimate Quest](/ultimate-quest/) is a fantasy adventure and dungeon crawling game with old school vibes. This is a cooperative game for 1-6 players with a loose campaign system. The game creates unique stories and adventures filled with emergent narrative due to the vast combinations of content created by modular cards and dice rolls. Thanks to card driven content this game comes in a refreshingly small package whilst still offering epic adventures.
 
-- 1-6 players (additional polyhedral/RPG dice are required at higher player counts)
-- 60-90 minutes per quest
-- Easy to learn, recommended age: 11+
-- Takes you on epic fantasy adventures (without a Games Master)
-- High variability from a modular game system
-- Dice based action selection system with luck mitigation
-- Small sized box, epic sized game
-- Lovingly hand crafted (no AI) by Jimmy Forrester-Fellowes
-
-[Click here to find out more about Ultimate Quest](/ultimate-quest/)
+During Quests a map unfolds on the tabletop as the Champions explore in locations such as dungeons, castles and wild forests. Players will be rolling dice and manipulating the results using their Champion's Energy and Adrenaline. Characters and objects are represented by standees providing an element of rewarding tactical combat mixed in to the epic adventures. [Click here to find out more about Ultimate Quest!](/ultimate-quest/)
 
 ![Polyhedral dice - retro colorway](/dice1.png)
 

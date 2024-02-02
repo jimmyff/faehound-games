@@ -4,15 +4,9 @@ description = "Ultimate Quest"
 weight = 2
 +++
 
-**Ultimate Quest** is a fantasy adventure and dungeon crawling boardgame with old school vibes. This is a cooperative game for 1-6 players with a loose campaign system. The game creates unique stories and adventures filled with emergent narrative due to the vast combinations of content created by the modular card system combined with dice rolls. Thanks to a card driven content system this game comes in a refreshingly small package whilst still offering epic adventures.
+**Ultimate Quest** is a fantasy adventure and dungeon crawling game with old school vibes. This is a cooperative game for 1-6 players with a loose campaign system. The game creates unique stories and adventures filled with emergent narrative due to the vast combinations of content created by modular cards and dice rolls. Thanks to card driven content this game comes in a refreshingly small package whilst still offering epic adventures.
 
-During Quests a map unfolds on the tabletop as the Champions explore in locations such as dungeons, castles and wild forests. Players will be rolling dice and balancing their Champion's Energy and Adrenaline to manipulate their rolls. Characters and objects are represented by standees providing an element of rewarding tactical combat mixed in to the epic adventures.
-
-<!-- The story starts with 'Shadow' beginning to spread across a once peaceful land; legends says that the Shadow will consume all unless there are Champions powerful enough to stop it. During various play sessions players will carve their own path through the game, growing stronger and trying to survive long enough to attempt to rid the land of the Shadow. To accomplish this Ultimate Quest the Champions will go on an epic journey exploring the land and encountering events and finding new Quests along the way.
-
-During Quests the champions will explore specific locations ranging from dungeons to wild forests. The map will unfold as they explore and they will encounter events, legendary treasures and the Shadow Horde... Using the Destiny Dice action selection system players will see their Champions accomplish heroic feats. -->
-
-<!-- This is Faehound Games first game and it will be available via crowdfunding. -->
+During Quests a map unfolds on the tabletop as the Champions explore in locations such as dungeons, castles and wild forests. Players will be rolling dice and manipulating the results using their Champion's Energy and Adrenaline. Characters and objects are represented by standees providing an element of rewarding tactical combat mixed in to the epic adventures.
 
 # Game overview
 
