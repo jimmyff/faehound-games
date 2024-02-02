@@ -1,12 +1,20 @@
 +++
-title = "Adventure Quest"
-description = "Adventure Quest"
+title = "Ultimate Quest"
+description = "Ultimate Quest"
 weight = 2
 +++
 
-# Game overview
+**Ultimate Quest** is a fantasy adventure and dungeon crawling boardgame with old school vibes. This is a cooperative game for 1-6 players with a loose campaign system. The game creates unique stories and adventures filled with emergent narrative due to the vast combinations of content created by the modular card system combined with dice rolls. Thanks to a card driven content system this game comes in a refreshingly small package whilst still offering epic adventures.
 
-**Adventure Quest** is a fantasy adventure and dungeon crawling boardgame with old school vibes. This is Faehound Games first game and it will be available via crowdfunding.
+During Quests a map unfolds on the tabletop as the Champions explore in locations such as dungeons, castles and wild forests. Players will be rolling dice and balancing their Champion's Energy and Adrenaline to manipulate their rolls. Characters and objects are represented by standees providing an element of rewarding tactical combat mixed in to the epic adventures.
+
+<!-- The story starts with 'Shadow' beginning to spread across a once peaceful land; legends says that the Shadow will consume all unless there are Champions powerful enough to stop it. During various play sessions players will carve their own path through the game, growing stronger and trying to survive long enough to attempt to rid the land of the Shadow. To accomplish this Ultimate Quest the Champions will go on an epic journey exploring the land and encountering events and finding new Quests along the way.
+
+During Quests the champions will explore specific locations ranging from dungeons to wild forests. The map will unfold as they explore and they will encounter events, legendary treasures and the Shadow Horde... Using the Destiny Dice action selection system players will see their Champions accomplish heroic feats. -->
+
+<!-- This is Faehound Games first game and it will be available via crowdfunding. -->
+
+# Game overview
 
 - 1-6 players (additional polyhedral/RPG dice are required at higher player counts)
 - 60-90 minutes per quest
@@ -27,7 +35,7 @@ The game is accessible enough that it can be played with players with little exp
 
 ## A game of endless stories
 
-Adventure Quest offers huge variability due to the vast combinations created by cards and dice rolls. The game will take you adventuring in different settings from castle dungeons, necromancers crypts to wild forests and beyond. Due to the modular nature of the content and the sheer number of combinations created by the cards and dice rolls, no two adventures will ever be the same. You may come across a kitchen room during two different Quests, but what/who you find there and what unfolds in that kitchen will almost certainly be vastly different.
+Ultimate Quest offers huge variability due to the vast combinations created by cards and dice rolls. The game will take you adventuring in different settings from castle dungeons, necromancers crypts to wild forests and beyond. Due to the modular nature of the content and the sheer number of combinations created by the cards and dice rolls, no two adventures will ever be the same. You may come across a kitchen room during two different Quests, but what/who you find there and what unfolds in that kitchen will almost certainly be vastly different.
 
 There are times that your might come-across a combinations of abilities, items, enemies and events that could result in unpredictable situations. This game is not for the faint of heart. Unique situations will test your mettle and require you to prove your worth but hopefully leave you reminiscing about them for years to come.
 
@@ -53,13 +61,17 @@ This game has been designed with solo gaming in mind from the start. Thanks to t
 
 There seems to be a trend of games becoming more bigger, heavier and more expensive and dungeon crawls can be some of the worst offenders. This game is in someways a reaction to that trend. A game that hopefully offers as big (if not bigger) adventure -in a more humble package. The game system is designed in a modular way and there will be space in the game box for future expansions to further enrich your adventures and worlds.
 
+## How to get the game
+
+Ultimate Quest will be coming to crowdfunding. Please [join the newsletter](<https://mailchi.mp/68c9bda28534/faehound-games-newsletter>) if you want to be the first to know when theres more information to share.
+
 ![Polyhedral dice - retro colorway](/dice1.png)
 
 # A call for Playtesters
 
-If you are interested in play testing Adventure Quest please get in touch on [boardgamegeek](https://boardgamegeek.com/user/jimmyff). As the game gets closer to completion I'd love to have testers playing the game regularly (solo or in a group), offering feedback that will help to shape the final game.
+If you are interested in play testing Ultimate Quest please get in touch on [boardgamegeek](https://boardgamegeek.com/user/jimmyff). As the game gets closer to completion I'd love to have testers playing the game regularly (solo or in a group), offering feedback that will help to shape the final game.
 
-Adventure Quest will be available to play at Airecon (Harrogate UK) in the Playtesting area at 15th March 2024 from 16:30 - 19:30. So please pop along and help rescue Georgie, the ginger tavern cat!
+Ultimate Quest will be available to play at Airecon (Harrogate UK) in the Playtesting area at 15th March 2024 from 16:30 - 19:30. So please pop along and help rescue Georgie, the ginger tavern cat!
 
 # Who's making this game?
 

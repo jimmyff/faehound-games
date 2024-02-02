@@ -22,7 +22,7 @@
 # The URL the site will be built for
 base_url = "/"
 
-title = "Adventure Quest: A dungeon crawl adventure boardgame by Faehound Games"
+title = "Ultimate Quest: A dungeon crawl adventure boardgame by Faehound Games"
 # default_language = "en"
 
 # Whether to automatically compile all Sass files in the sass directory

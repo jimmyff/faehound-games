@@ -1,11 +1,11 @@
 +++
-title = "Adventure Quest - Faehound Games"
+title = "Ultimate Quest - Faehound Games"
 sort_by = "weight"
 +++
 
-# Adventure Quest
+# Ultimate Quest
 
-[Adventure Quest](/adventure-quest/) is a fantasy&nbsp;adventure and dungeon&nbsp;crawling boardgame with old&#8209;school vibes. This is Faehound Games first game and it will be available via crowdfunding.
+[Ultimate Quest](/ultimate-quest/) is a fantasy&nbsp;adventure and dungeon&nbsp;crawling boardgame with old&#8209;school vibes. This is Faehound Games first game and it will be available via crowdfunding.
 
 - 1-6 players (additional polyhedral/RPG dice are required at higher player counts)
 - 60-90 minutes per quest
@@ -16,13 +16,13 @@ sort_by = "weight"
 - Small sized box, epic sized game
 - Lovingly hand crafted (no AI) by Jimmy Forrester-Fellowes
 
-[Click here to find out more about Adventure Quest](/adventure-quest/)
+[Click here to find out more about Ultimate Quest](/ultimate-quest/)
 
 ![Polyhedral dice - retro colorway](/dice1.png)
 
 # Deckorator
 
-Deckorator is an open source tool ([available on Github](https://github.com/jimmyff/deckorator)) created by Jimmy for the purpose of building card based games. It's currently undergoing a rather major overhaul as I build Adventure Quest. At some point I will do a pass over it and document areas in an attempt to get it ready for external use. Current features:
+Deckorator is an open source tool ([available on Github](https://github.com/jimmyff/deckorator)) created by Jimmy for the purpose of building card based games. It's currently undergoing a rather major overhaul as I build Ultimate Quest. At some point I will do a pass over it and document areas in an attempt to get it ready for external use. Current features:
 
 - Complex image manipulations such as masking
 - DPI independent layout through a UI abstraction layer
@@ -49,8 +49,8 @@ The name Faehound Games is inspired by love of fantasy and my gorgeous little Wh
 
 # Become a Faehound Playtester
 
-If you are interested in playtesting [Adventure Quest](/adventure-quest/) on a semi-regular basis (solo or in a group) then please get in touch with me on [boardgamegeek](https://boardgamegeek.com/user/jimmyff). Playtesting is a super important part of development a game and really helps shape the final game!
+If you are interested in playtesting [Ultimate Quest](/ultimate-quest/) on a semi-regular basis (solo or in a group) then please get in touch with me on [boardgamegeek](https://boardgamegeek.com/user/jimmyff). Playtesting is a super important part of development a game and really helps shape the final game!
 
 # Join the newsletter
 
-If you want to keep up to date with [Adventure Quest](/adventure-quest/) and future projects then please [join the newsletter](<https://mailchi.mp/68c9bda28534/faehound-games-newsletter>). I will keep you in the loop so you will know when the project will come to crowdfunding.
+If you want to keep up to date with [Ultimate Quest](/ultimate-quest/) and future projects then please [join the newsletter](<https://mailchi.mp/68c9bda28534/faehound-games-newsletter>). I will keep you in the loop so you will know when the project will come to crowdfunding.
