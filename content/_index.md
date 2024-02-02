@@ -5,9 +5,9 @@ sort_by = "weight"
 
 # Ultimate Quest
 
-[Ultimate Quest](/ultimate-quest/) is a fantasy adventure and dungeon crawling game with old school vibes. This is a cooperative game for 1-6 players with a loose campaign system. The game creates unique stories and adventures filled with emergent narrative due to the vast combinations of content created by modular cards and dice rolls. Thanks to card driven content this game comes in a refreshingly small package whilst still offering epic adventures.
+[Ultimate Quest](/ultimate-quest/) is a fantasy adventure and dungeon crawling game with old school vibes. This is a cooperative game for 1-6 players with a loose campaign system. The game creates unique stories and adventures filled with emergent narrative due to the vast combinations of content created by modular cards and dice rolls. Thanks to card driven content this game comes in a refreshingly small package whilst still offering a big game experience.
 
-During Quests a map unfolds on the tabletop as the Champions explore in locations such as dungeons, castles and wild forests. Players will be rolling dice and manipulating the results using their Champion's Energy and Adrenaline. Characters and objects are represented by standees providing an element of rewarding tactical combat mixed in to the epic adventures. [Click here to find out more about Ultimate Quest!](/ultimate-quest/)
+During Quests a map unfolds on the tabletop as the Champions explore locations such as dungeons, castles and wild forests. Players will be rolling dice and manipulating the results using their Champion's Energy and Adrenaline in order to pull off heroic feats. Characters and objects are represented by standees providing an element of rewarding tactical combat mixed into the epic adventures. [Click here to find out more about Ultimate Quest!](/ultimate-quest/)
 
 ![Polyhedral dice - retro colorway](/dice1.png)
 
