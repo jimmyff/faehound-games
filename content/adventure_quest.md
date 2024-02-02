@@ -27,7 +27,7 @@ The game is accessible enough that it can be played with players with little exp
 
 ## A game of endless stories
 
-Adventure Quest offers huge variability due to the vast combinations created by cards and dice rolls. The game will take you adventuring in different settings from castle dungeons, necromancers crypts to wild forests and beyond. Due to the modular nature of the content and the sheer number of combinations created by the cards and dice rolls no adventure will be the same. You may come across a kitchen room during two different Quests, but what/who you find there and what unfolds in that kitchen will almost certainly be vastly different.
+Adventure Quest offers huge variability due to the vast combinations created by cards and dice rolls. The game will take you adventuring in different settings from castle dungeons, necromancers crypts to wild forests and beyond. Due to the modular nature of the content and the sheer number of combinations created by the cards and dice rolls, no two adventures will ever be the same. You may come across a kitchen room during two different Quests, but what/who you find there and what unfolds in that kitchen will almost certainly be vastly different.
 
 There are times that your might come-across a combinations of abilities, items, enemies and events that could result in unpredictable situations. This game is not for the faint of heart. Unique situations will test your mettle and require you to prove your worth but hopefully leave you reminiscing about them for years to come.
 
