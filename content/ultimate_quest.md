@@ -63,7 +63,7 @@ Ultimate Quest will be coming to crowdfunding. Please [join the newsletter](<htt
 
 # A call for Playtesters
 
-If you are interested in play testing Ultimate Quest please get in touch on [boardgamegeek](https://boardgamegeek.com/user/jimmyff). As the game gets closer to completion I'd love to have testers playing the game regularly (solo or in a group), offering feedback that will help to shape the final game.
+If you are interested in play testing Ultimate Quest please get in touch on [boardgamegeek](https://boardgamegeek.com/user/jimmyff). In addition to the local play testing the game is currently undergoing, I'd love to have remote testers playing the game regularly (solo or in a group), offering feedback that will help to shape the final game.
 
 Ultimate Quest will be available to play at Airecon (Harrogate UK) in the Playtesting area on 15th March 2024 from 16:30 - 19:30. So please pop along and help rescue Georgie, the ginger tavern cat!
 
