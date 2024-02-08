@@ -11,7 +11,7 @@ During Quests a map unfolds on the tabletop as the Champions explore locations s
 # Game overview
 
 - 1-6 players (additional polyhedral/RPG dice are required at higher player counts)
-- 60-90 minutes per quest
+- 45-90 minutes per quest
 - Easy to learn, recommended age: 11+
 - Takes you on epic fantasy adventures (without a Games Master)
 - High variability from a modular game system
@@ -63,7 +63,7 @@ Ultimate Quest will be coming to crowdfunding. Please [join the newsletter](<htt
 
 # A call for Playtesters
 
-If you are interested in play testing Ultimate Quest please get in touch on [boardgamegeek](https://boardgamegeek.com/user/jimmyff). In addition to the local play testing the game is currently undergoing, I'd love to have remote testers playing the game regularly (solo or in a group), offering feedback that will help to shape the final game.
+If you are interested in play testing Ultimate Quest please get in touch on [boardgamegeek](https://boardgamegeek.com/user/jimmyff). In additional to local playtesting (Leeds, UK) I'm looking for remote testers who can play the game semi-regularly (solo or in a group), offering feedback that will help to shape the final game.
 
 Ultimate Quest will be available to play at Airecon (Harrogate UK) in the Playtesting area on 15th March 2024 from 16:30 - 19:30. So please pop along and help rescue Georgie, the ginger tavern cat!
 
