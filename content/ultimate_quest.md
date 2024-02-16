@@ -4,9 +4,16 @@ description = "Ultimate Quest"
 weight = 2
 +++
 
+
+{% feature_header(img_src="/box1.png", img_alt="Ultimate Quest box artwork (Work in progress)") %}
+
 **Ultimate Quest** is a fantasy adventure and dungeon crawling game with old school vibes. It is a cooperative game for 1-6 players that supports both one shot adventures as well as a flexible campaign system. The game creates unique stories and adventures filled with emergent narrative due to the vast combinations of content created by modular cards and dice rolls.
 
 During Quests a map unfolds on the tabletop as the Champions explore locations such as dungeons, castles and wild forests. Players will be rolling dice and manipulating the results using their Champion's Energy and Adrenaline in order to pull off heroic feats. The game offers a blend of exploration and adventure mixed in with fun and rewarding tactical combat.
+
+[View on BoardGameGeek »](https://boardgamegeek.com/boardgame/413780/ultimate-quest)
+
+{% end %}
 
 # Game overview
 
@@ -55,9 +62,13 @@ This game has been designed with solo gaming in mind from the start. Thanks to t
 
 There seems to be a trend of games becoming bigger, heavier and more expensive and dungeon crawls can be some of the worst offenders. This game is in some ways a reaction to that trend. A game that hopefully offers as big or bigger adventure -in a more humble package. The game system is designed in a modular way and there will be space in the game box for future expansions to further enrich your adventures and worlds.
 
+## Join the community
+
+Come and join the games discussion forum over on [BoardGameGeek page](https://boardgamegeek.com/boardgame/413780/ultimate-quest). It would be a huge help if you could hit the love heart button to become a fan, hit subscribe for updates and finally add the game to your wishlist! All of these things will help the game reach more people!
+
 ## How to get the game
 
-Ultimate Quest will be coming to crowdfunding. Please [join the newsletter](<https://mailchi.mp/68c9bda28534/faehound-games-newsletter>) if you want to be the first to know when theres more information to share.
+Ultimate Quest will be coming to crowdfunding. Please [join the newsletter](<https://mailchi.mp/68c9bda28534/faehound-games-newsletter>) and subscribe to the [BGG page](https://boardgamegeek.com/boardgame/413780/ultimate-quest) if you want to be the first to know when theres more information to share.
 
 ![Polyhedral dice - retro colorway](/dice1.png)
 

@@ -1,6 +1,7 @@
 @import "_ultility.scss";
 @import "_text.scss";
 @import "_markdown.scss";
+@import "faehound.scss";
 
 body {
   padding: 0;
@@ -94,7 +95,6 @@ main {
 
   .toc-item {
     padding: 10px 20px;
-    color: var(--toc-text-color);
   }
 
   .toc-item a,

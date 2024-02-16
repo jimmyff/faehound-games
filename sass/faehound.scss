@@ -1,0 +1,58 @@
+div.feature {
+    display: flex;
+    flex-direction: column;
+
+    .image {
+        // width: 100%;
+        // max-height: 30em;
+        // overflow: hidden;
+        max-height: 25em;
+        max-width: 25em;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+
+        img {
+            height: 100%;
+            width: 100%;
+            object-fit: contain;
+            border-radius: 0.5em;
+
+        }
+    }
+
+}
+
+
+@media screen and (max-width: 768px) {
+    div.feature {
+        .image {
+            width: 100%;
+            height: auto;
+        }
+
+    }
+
+}
+
+
+@media screen and (min-width: 1280px) {
+
+    div.feature {
+        flex-direction: row;
+        -ms-flex-align: center;
+        vertical-align: middle;
+
+        .image {
+            max-height: 20em;
+            max-width: 20em;
+            margin-top: auto;
+            margin-bottom: auto;
+        }
+
+        .body {
+            flex: 1;
+            padding-left: 2em;
+        }
+    }
+}

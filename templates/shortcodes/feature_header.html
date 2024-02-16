@@ -1,0 +1,8 @@
+<div class="feature">
+    <div class="image"> <img src="{{ img_src }}" alt="{{ img_alt }}"></div>
+       
+    <div class="body">
+        {{ body | markdown(inline=false) | safe }}
+        
+    </div>
+</div>
