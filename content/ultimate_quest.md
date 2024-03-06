@@ -16,8 +16,8 @@ During Quests a map unfolds on the tabletop as the Champions explore locations s
 {% end %}
 
 # Game overview
-
-- 1-6 players (additional polyhedral/RPG dice are required at higher player counts)
+<!-- (additional dice may be required at higher player counts and later levels) -->
+- 1-6 players
 - 45-90 minutes per quest
 - Easy to learn, recommended age: 11+
 - Takes you on epic fantasy adventures (without a Games Master)
@@ -44,19 +44,19 @@ There are times that you might come-across a combination of abilities, items, en
 
 ## Create a unique champion
 
-Character creation is similar to that of an RPG, you will choose their name, lineage and class. There are 6 distinctive champion classes that all offer unique gameplay mechanisms, their own character sheets and each also with a wealth of level-up paths. Different lineages offer further variability and fun combinations - how about a Centaur Witch, a spider riding Fairy Ranger or a Halfling-Ogre Druid? Unique and powerful legendary treasures, a variety of NPCs, companions and pets means no two Champions' stories will ever be the same!
+Champion creation is similar to that of an RPG, you will choose their name, lineage and class. There are 6 distinctive champion classes that all offer unique gameplay mechanisms, their own character sheets and each also with a wealth of level-up paths and discoverable items. Different lineages offer further variability and fun combinations - how about a Centaur Witch, a spider riding Fairy Ranger or a Halfling-Ogre Druid? Unique and powerful legendary treasures, a variety of NPCs, companions and pets means no two Champions' stories will ever be the same!
 
 ## Campaign / One-shots
 
-This game offers a relaxed campaign/sandbox system: there is no linear path so no big plot to remember and the stories come from emergent narrative. This is more of a sandbox survival game allowing players freedom over where they go and what they will do. Each play session will take part in a campaign world but this doesn't have to be with the same party. It could be a one-shot session with visiting friend's or you trying some new champions. Despite the flexibility of this system there is a start to the campaign as well as an end which can be attempted if the champions survive long enough to reach it...
+The game offers both one-shot adventures and a relaxed campaign/sandbox system. There is no linear path through the campaign so no big plot to remember and the stories come from emergent narrative. This is more of a sandbox survival game allowing players freedom over where they go and what they will do. The campaign system is flexible so play sessions don't have to be with the same party. You could use your campaign's world for a one-shot session with visiting friend's or you might just be trying some new champions. Despite the flexibility of this system there is a start to the campaign as well as an end which can be attempted if your champions survive long enough to reach it...
 
-Your champions' progress is kept on a character sheet. Your champions are portable and could be dropped in and out of different campaign worlds and you can take them with you to a friends campaign or to a convention game (akin to taking your RPG character sheets to a one-shot adventure). You/your group might want a more traditional fixed party and that works really well too. This is your world and these are your adventures, you decide the way you play!
+Your champions' progress is kept on a character sheet. Your champions are portable and could be dropped in and out of different campaign worlds and you can take them with you to a friends game or to a one-shot game at a convention. You/your group might want a more traditional fixed party within a persistent campaign setting and that works really well too. This is your world and these are your adventures, you decide the way you play!
 
 ![Room tile](/rooms1.png)
 
 ## Solo play
 
-This game has been designed with solo gaming in mind from the start. Thanks to the companion system you can run a balanced party without taking on the cognitive load of running more than one full champion (along with their character sheet and destiny dice). Companions offer a simplified game experience. This means you can run one full champion alongside any number of companions. As a result of this you aren't limited in what role you can play solo. You could go on adventuring as a Support Bard performing to your muse: a weathered half-ogre warrior companion!
+This game has been designed with solo gaming in mind from the start. Thanks to the companion system you can run a balanced party without taking on the cognitive load of running more than one full champion (along with their character sheet and destiny dice). Companions offer a simplified game experience. This means you can run one full champion alongside any number of companions. As a result of this you aren't limited in what role you can play solo. You could go on adventuring as a Bard performing to your companion muse: a stone-faced Mountain Ogre!
 
 ## Big things come in small packages
 
@@ -70,7 +70,7 @@ Come and join the games discussion forum over on [BoardGameGeek page](https://bo
 
 Ultimate Quest will be coming to crowdfunding. Please [join the newsletter](<https://mailchi.mp/68c9bda28534/faehound-games-newsletter>) and subscribe to the [BGG page](https://boardgamegeek.com/boardgame/413780/ultimate-quest) if you want to be the first to know when theres more information to share.
 
-![Polyhedral dice - retro colorway](/dice1.png)
+![The 5 types of dice](/dice1.png)
 
 # A call for Playtesters
 

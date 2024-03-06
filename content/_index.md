@@ -9,7 +9,7 @@ sort_by = "weight"
 
 During Quests a map unfolds on the tabletop as the Champions explore locations such as dungeons, castles and wild forests. Players will be rolling dice and manipulating the results using their Champion's Energy and Adrenaline in order to pull off heroic feats. The game offers a blend of exploration and adventure mixed in with fun and rewarding tactical combat. [Click here to find out more about Ultimate Quest!](/ultimate-quest/)
 
-![Polyhedral dice - retro colorway](/dice1.png)
+![The 5 types of dice](/dice1.png)
 
 # Deckorator
 
