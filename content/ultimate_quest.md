@@ -5,7 +5,7 @@ weight = 2
 +++
 
 
-{% feature_header(img_src="/box1.png", img_alt="Ultimate Quest box artwork (Work in progress)") %}
+{% feature_header(img_src="/box1.webp", img_alt="Ultimate Quest box artwork (Work in progress)") %}
 
 **Ultimate Quest** is a fantasy adventure and dungeon crawling game with old school vibes. It is a cooperative game for 1-6 players that supports both one shot adventures as well as a flexible campaign system. The game creates unique stories and adventures filled with emergent narrative due to the vast combinations of content created by modular cards and dice rolls.
 
@@ -26,7 +26,7 @@ During Quests a map unfolds on the tabletop as the Champions explore locations s
 - Small sized box, epic sized game
 - Lovingly handcrafted (no AI) by Jimmy Forrester-Fellowes
 
-![Components and artwork](/components1.png)
+![Components and artwork](/components1.webp)
 
 ## Who is this game for?
 
@@ -40,7 +40,7 @@ Ultimate Quest offers huge variability owing to the vast combinations created by
 
 There are times that you might come-across a combination of abilities, items, enemies and events that could result in unpredictable situations. This game is not for the faint of heart. Unique situations will test your mettle and require you to prove your worth but hopefully leave you reminiscing about them for years to come.
 
-![Class character sheet covers](/classes1.png)
+![Class character sheet covers](/classes1.webp)
 
 ## Create a unique champion
 
@@ -52,7 +52,7 @@ The game offers both one-shot adventures and a relaxed campaign/sandbox system. 
 
 Your champions' progress is kept on a character sheet. Your champions are portable and could be dropped in and out of different campaign worlds and you can take them with you to a friends game or to a one-shot game at a convention. You/your group might want a more traditional fixed party within a persistent campaign setting and that works really well too. This is your world and these are your adventures, you decide the way you play!
 
-![Room tile](/rooms1.png)
+![Room tile](/rooms1.webp)
 
 ## Solo play
 
@@ -62,6 +62,8 @@ This game has been designed with solo gaming in mind from the start. Thanks to t
 
 There seems to be a trend of games becoming bigger, heavier and more expensive and dungeon crawls can be some of the worst offenders. This game is in some ways a reaction to that trend. A game that hopefully offers as big or bigger adventure -in a more humble package. The game system is designed in a modular way and there will be space in the game box for future expansions to further enrich your adventures and worlds.
 
+![Group playing Ultimate Quest board game](/gameplay1.webp)
+
 ## Join the community
 
 Come and join the games discussion forum over on [BoardGameGeek page](https://boardgamegeek.com/boardgame/413780/ultimate-quest). It would be a huge help if you could hit the love heart button to become a fan, hit subscribe for updates and finally add the game to your wishlist! All of these things will help the game reach more people!
@@ -70,7 +72,7 @@ Come and join the games discussion forum over on [BoardGameGeek page](https://bo
 
 Ultimate Quest will be coming to crowdfunding. Please [join the newsletter](<https://mailchi.mp/68c9bda28534/faehound-games-newsletter>) and subscribe to the [BGG page](https://boardgamegeek.com/boardgame/413780/ultimate-quest) if you want to be the first to know when theres more information to share.
 
-![The 5 types of dice](/dice1.png)
+![The 5 types of dice](/dice1.webp)
 
 # A call for Playtesters
 
